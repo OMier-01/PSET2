@@ -1,4 +1,6 @@
 # PSET2
-Oscar D. mier
+Oscar D. Mier
+
 10/16/2022
+
 PSET2 for F22-PSYCH-251-01/SYMSYS-195E-01
